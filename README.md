@@ -1,4 +1,4 @@
-# python_basic
+# Python_basic
 파이썬 기초
 
 - JumpToPython(21.03~21.04)
